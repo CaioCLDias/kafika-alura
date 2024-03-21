@@ -5,9 +5,13 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/service-email/pom.xml" />
+        <option value="$PROJECT_DIR$/service-fraud-detect/pom.xml" />
+        <option value="$PROJECT_DIR$/service-log/pom.xml" />
+        <option value="$PROJECT_DIR$/service-new-order/pom.xml" />
+        <option value="$PROJECT_DIR$/commom-kafka/pom.xml" />
       </list>
     </option>
-    <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
